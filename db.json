@@ -1,0 +1,15 @@
+{
+    "jobsDetails": [
+      {
+        "company": "google",
+        "location": "banglore",
+        "role": "frontend",
+        "level": "Trainee",
+        "position": "Junior Frontend Developer",
+        "language": "reactjs",
+        "contract": "full time",
+        "date": "2023-06-26",
+        "id": 4
+      }
+    ]
+  }
