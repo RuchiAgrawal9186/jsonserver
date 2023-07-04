@@ -13,21 +13,5 @@
       }
     ],
     "users": [
-      {
-        "id": 1,
-        "name": "ruchi",
-        "age": "20",
-        "place": "Dahod",
-        "batch_name": "web-24",
-        "profession": "Frontend-Developer"
-      },
-      {
-        "name": "radha",
-        "age": "15",
-        "place": "Fatepura",
-        "batch_name": "web-15",
-        "profession": "Student",
-        "id": 2
-      }
     ]
   }
