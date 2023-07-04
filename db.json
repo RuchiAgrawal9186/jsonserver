@@ -13,5 +13,37 @@
       }
     ],
     "users": [
+      {
+        "name": "pqr",
+        "age": "20",
+        "place": "Ahemdabad",
+        "batch_name": "web-15",
+        "profession": "Frontend-Developer",
+        "id": 1
+        },
+        {
+        "name": "pqr",
+        "age": "21",
+        "place": "Ahemdabad",
+        "batch_name": "web-15",
+        "profession": "Frontend-Developer",
+        "id": 2
+        },
+        {
+        "name": "pqr",
+        "age": "21",
+        "place": "Ahemdabad",
+        "batch_name": "web-14",
+        "profession": "Backend-Developer",
+        "id": 3
+        },
+        {
+        "name": "pqr",
+        "age": "21",
+        "place": "Ahemdabad",
+        "batch_name": "web-14",
+        "profession": "Backend-Developer",
+        "id": 4
+        }
     ]
   }
